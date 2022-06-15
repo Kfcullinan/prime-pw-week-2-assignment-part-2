@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// made a variable called name and set its value to Dane
+// then we checked if name "Dane" was equal to "Mary"
+// they are not, answer is false and moves on to the next line of code
+//console logs 'How do you do'
 
 //CODE
 /*
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// variable secret has been declared but has not been assigned any value
+// code has been verified = 123 giving the value of secret 'super'
+// code value is 246 which is less than 250
+//console logs 'super'
 
 //CODE
 /*
@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// isStudent is absolutely true but zip cod is not greater than 8000, move on to the next line of code
+// isStudent is absolutely true which negates the false, and age value is greater than 30, neither side is true-move on to the next line
+// isStudent is absolutely true
+//console logs 'Welcome to prime!'
 
 //CODE
 /*
@@ -129,7 +129,7 @@ if (number >= 2) {
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
-/*
+/*colorOne and colorTwo's values are reversed and will be false
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
@@ -146,7 +146,7 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
-
+for the life of me i cannot see what is wrong with this
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -159,11 +159,11 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
-
+minAge is less than, not greater proper syntax would be --- if(minAge >= age)
 if(minAge <= age) {
   console.log('no entry');
 } else {
   console.log('enter');
 }
-*/
+*/ 
 
