@@ -136,6 +136,7 @@ let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+  colorTwo = 'purple';
 }
 */
 
@@ -146,7 +147,7 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
-for the life of me i cannot see what is wrong with this
+correct coding would be if (temp > 39 && time >= 4)
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -159,7 +160,7 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
-minAge is less than, not greater proper syntax would be --- if(minAge >= age)
+console logs are reversed and should output 'enter'
 if(minAge <= age) {
   console.log('no entry');
 } else {
